@@ -1,4 +1,4 @@
-Author: Mohammed Almodaeah
+Author: Mohammed Almodawah
 Date 1/1/2020
 version: v 1.0 pre-alpha
 
